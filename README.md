@@ -50,17 +50,17 @@
 
 <h4>TF IDF Analysis on Post</h4>
 
-<img src="img/st10.png" width="500" title="">
+<img src="img/st10.png" width="1000" title="">
 
 <h4>Analysis</h4>
 
-<img src="img/st8.png" width="500" title="">
+<img src="img/st8.png" width="1000" title="">
 
 </p>
 
 <h3>Dashboard Inteface</h3>
 <p>
   
-<img src="img/st12.png" width="500" title="">
+<img src="img/st12.png" width="1000" title="">
 
 </p>
