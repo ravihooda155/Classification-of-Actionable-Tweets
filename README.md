@@ -16,29 +16,51 @@
 
 <h3>ML Methodology</h3>
 
-![Screenshot](img/st.png)
+<img src="img/st.png" width="500" title="">
 
 <h3>ML Classification Sample</h3>
+<hr>
 <h4>Community Action</h4>
-![Screenshot](img/st1.png)
-<h4>Fake News</h4>
-![Screenshot](img/st2.png)
-<h4>Fraud</h4>
-![Screenshot](img/st3.png)
-<h4>Traffic</h4>
-![Screenshot](img/st4.png)
-<h4>Undetermined</h4>
-![Screenshot](img/st6.png)
 
+<img src="img/st1.png" width="500" title="">
+
+<h4>Fake News</h4>
+
+<img src="img/st2.png" width="500" title="">
+
+<h4>Fraud</h4>
+
+<img src="img/st3.png" width="500" title="">
+
+<h4>Traffic</h4>
+
+<img src="img/st4.png" width="500" title="">
+
+<h4>Undetermined</h4>
+
+<img src="img/st6.png" width="500" title="">
+
+<hr>
 
 <h3>Primary Analysis</h3>
+<p>
 <h4>Topic Modelling</h4>
-![Screenshot](img/st9.png)
+
+<img src="img/st9.png" width="500" title="">
+
 <h4>TF IDF Analysis on Post</h4>
-![Screenshot](img/st10.png)
+
+<img src="img/st10.png" width="500" title="">
+
 <h4>Analysis</h4>
-![Screenshot](img/st8.png)
+
+<img src="img/st8.png" width="500" title="">
+
+</p>
 
 <h3>Dashboard Inteface</h3>
-![Screenshot](img/st12.png)
+<p>
+  
+<img src="img/st12.png" width="500" title="">
 
+</p>
